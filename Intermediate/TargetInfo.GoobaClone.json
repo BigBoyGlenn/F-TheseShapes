@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GoobaClone",
+			"Path": "..\\Source\\GoobaClone.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GoobaCloneEditor",
+			"Path": "..\\Source\\GoobaCloneEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
